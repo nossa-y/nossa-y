@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## 📊 Statistiques GitHub
+
+![Vos Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=nossa-y&show_icons=true&theme=radical)
+
 <!--
 **nossa-y/nossa-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
