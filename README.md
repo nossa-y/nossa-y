@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-## 📊 Statistiques GitHub
-
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=nossa-y&layout=compact)
 
 <!--
