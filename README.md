@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My work gitlab: https://gitlab.com/nossa11
+
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=nossa-y&layout=compact)
 
 <!--
